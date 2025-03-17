@@ -1,5 +1,3 @@
-# ♾️ Neurync
-
 ![Logo da Neurync](./NEURYNC-LOGO-COMPLETA-COLORIDA.png)
 
 ## 📄 Sumário 
